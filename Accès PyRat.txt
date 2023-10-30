@@ -1,0 +1,14 @@
+"après avoir ouvert la command cmd"
+
+cd C:\Users\drago\Desktop\IMT\PyRat-1-master
+
+
+
+py pyrat.py --rat AIs\
+
+OU
+
+py pyrat.py --rat "<https://colab.research.google.com/drive/1Xy2dTEC9Ik1RmdFoOgKMhNlXUGgS0eEz#scrollTo=KjvzQiBBPdUL&line=52&uniqifier=1>"
+
+
+python pyrat.py --rat "<https://colab.research.google.com/drive/1Xy2dTEC9Ik1RmdFoOgKMhNlXUGgS0eEz#scrollTo=KjvzQiBBPdUL&line=52&uniqifier=1>" -md 0.0 -p 1 -x 5 -y 5 --random_seed 1
